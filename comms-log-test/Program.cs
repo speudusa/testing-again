@@ -7,6 +7,7 @@ namespace comms_log_test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Willow says, 'Hi'.");
         }
     }
 }
